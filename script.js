@@ -7,7 +7,7 @@ const diferenca = hoje - dataInicio
 const dias = Math.floor(diferenca / (1000 * 60 * 60 * 24))
 
 document.getElementById("contador").innerText =
-"Já se passaram " + dias + " dias desde que nos conhecemos ❤️"
+"Já se passaram " + dias + " dias desde então ❤️"
 
 const musica = document.getElementById("musica")
 const botao = document.getElementById("botaoMusica")
